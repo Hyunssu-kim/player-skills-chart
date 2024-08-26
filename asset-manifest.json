@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/player-skills-chart/static/css/main.e6c13ad2.css",
+    "main.js": "/player-skills-chart/static/js/main.76c4cc7e.js",
+    "static/js/453.68693753.chunk.js": "/player-skills-chart/static/js/453.68693753.chunk.js",
+    "index.html": "/player-skills-chart/index.html",
+    "main.e6c13ad2.css.map": "/player-skills-chart/static/css/main.e6c13ad2.css.map",
+    "main.76c4cc7e.js.map": "/player-skills-chart/static/js/main.76c4cc7e.js.map",
+    "453.68693753.chunk.js.map": "/player-skills-chart/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.76c4cc7e.js"
+  ]
+}
